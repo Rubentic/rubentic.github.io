@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>MATLAB Code Download</title>
+  <style>
+    body {
+      font-family: system-ui, sans-serif;
+      max-width: 700px;
+      margin: 80px auto;
+      line-height: 1.6;
+    }
+
+    .btn {
+      display: inline-block;
+      padding: 14px 22px;
+      background: #0076a8;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: 600;
+    }
+
+    .btn:hover {
+      background: #005f87;
+    }
+
+    .note {
+      margin-top: 30px;
+      padding: 15px;
+      background: #f4f4f4;
+      border-left: 4px solid #0076a8;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>MATLAB Live Script</h1>
+
+  <p>
+    This project contains a MATLAB Live Script (<code>.mlx</code>).
+    GitHub cannot run or preview MATLAB code in the browser.
+  </p>
+
+  <a class="btn" href="NUTL_time-domain_simulator.mlx" download>
+    📥 Download MATLAB code
+  </a>
+
+  <div class="note">
+    <strong>How to use:</strong>
+    <ol>
+      <li>Download the <code>.mlx</code> file</li>
+      <li>Open it with MATLAB (Live Editor)</li>
+      <li>Press <em>Run</em></li>
+    </ol>
+  </div>
+
+</body>
+</html>
